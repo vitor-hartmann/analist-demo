@@ -116,5 +116,3 @@ While primarily designed for data analysis, the AI assistant can be adapted for 
 
 You can even use charts and images to create interesting results, like the ability to see what's most common inside a picture using a pie chart.
 
-![Image Analysis](public/image-analysis.png)
-
