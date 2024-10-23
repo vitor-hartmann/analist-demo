@@ -1,12 +1,12 @@
-# Claude Financial Data Analyst
+# Data Analyst
 
 ![hero](public/hero.png)
 
-A sophisticated Next.js application that combines Claude's capabilities with interactive data visualization to analyze financial data via chat.
+A sophisticated Next.js application that combines Anthropics's Claude's capabilities with interactive data visualization to analyze data via chat.
 
 ## Features
 
-- **Intelligent Data Analysis**: Powered by Claude (Using Claude 3 Haiku & Claude 3.5 Sonnet)
+- **Intelligent Data Analysis**: Powered by Claude 
 - **Multi-Format File Upload Support**:
   - Text/Code files (.txt, .md, .html, .py, .csv, etc)
   - PDF documents (Regular PDF with text, scanned documents not supported)
@@ -30,8 +30,8 @@ A sophisticated Next.js application that combines Claude's capabilities with int
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/financial-ai-assistant.git
-cd financial-ai-assistant
+git clone https://github.com/yourusername/analist-demo.git
+cd analist-demo
 ```
 
 2. Install dependencies:
@@ -68,10 +68,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Usage Examples
 
-The assistant can help with various financial analysis tasks:
+The assistant can help with various analysis tasks:
 
 1. **Data Extraction & Analysis**:
-   - Upload financial documents
+   - Upload documents
    - Extract key metrics
    - Analyze trends and patterns
 
@@ -87,7 +87,7 @@ The assistant can help with various financial analysis tasks:
 
 ## Interesting Use Cases
 
-While primarily designed for financial analysis, the AI assistant can be adapted for various intriguing applications:
+While primarily designed for data analysis, the AI assistant can be adapted for various intriguing applications:
 
 1. **Environmental Data Analysis**:
    - Analyze climate change trends
