@@ -1,6 +1,6 @@
 # Data Analyst
 
-![hero](public/hero.png)
+![hero](public/hero-app.png)
 
 A sophisticated Next.js application that combines Anthropics's Claude's capabilities with interactive data visualization to analyze data via chat.
 
